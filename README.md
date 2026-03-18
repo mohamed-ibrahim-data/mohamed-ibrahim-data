@@ -26,6 +26,7 @@ Recently completed the Associate Data Engineer in SQL track and currently buildi
 
 ## 📌 Featured Projects
 
+- 🔹 Advanced data analytics (SQL Server)
 - 🔹 SQL_Data_Warehouse_Project (SQL Server)
 - 🔹 E-Commerce SQL Server Project (Database Simulation)
 - 🔹 Sales Insights Dashboard (Power BI)
