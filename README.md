@@ -12,7 +12,6 @@
 I am passionate about designing structured databases and transforming raw datasets into meaningful insights.  
 Recently completed the Associate Data Engineer in SQL track and currently building real-world SQL Server projects simulating business workflows.
 
-I am actively seeking Data Engineering Internship opportunities.
 
 ---
 
@@ -42,4 +41,3 @@ I am actively seeking Data Engineering Internship opportunities.
 📧 Email: mohamedibrahim45469@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-b2aa1a32b  
 
-🚀 Open to Data Engineering Internship Opportunities
