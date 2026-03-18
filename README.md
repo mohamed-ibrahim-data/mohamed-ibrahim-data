@@ -24,17 +24,33 @@ Recently completed the Associate Data Engineer in SQL track and currently buildi
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Backend Projects
 
-- 🔹 Advanced data analytics (SQL Server)
-- 🔹 SQL_Data_Warehouse_Project (SQL Server)
-- 🔹 E-Commerce SQL Server Project (Database Simulation)
-- 🔹 Sales Insights Dashboard (Power BI)
-- 🔹 Excel Sales Analytics Dashboard
+<table>
+<tr>
+<td>
+
+### Advanced Data Analytics
+- Advanced SQL data analytics project showcasing trend analysis, cumulative analysis, performance metrics, segmentation, and reporting to generate business insights from structured datasets.
+
+</td>
+<td>
+
+### SQL Data Warehouse
+- Built a Data Warehouse consolidating data from CRM and ERP systems, performing ETL, data cleaning, and transformation to create analytics-ready datasets.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Sales Insights Dashboard Using Power BI
+- An interactive Power BI dashboard for analyzing business sales data. It helps in understanding overall performance, identifying trends, and supporting data-driven decisions.
+</td>
+<td>
 
 ---
 
----
 
 ## 📫 Connect With Me
 
