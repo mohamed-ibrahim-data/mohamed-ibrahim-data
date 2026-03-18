@@ -34,11 +34,16 @@ Recently completed the Associate Data Engineer in SQL track and currently buildi
 
 ---
 
-
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: mohamedibrahim45469@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-b2aa1a32b  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim226)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-ibrahim-data)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedibrahim45469@gmail.com)
+
+</div>
+
 
