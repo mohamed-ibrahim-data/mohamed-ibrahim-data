@@ -24,7 +24,7 @@ Recently completed the Associate Data Engineer in SQL track and currently buildi
 
 ---
 
-## 🚀 Featured Backend Projects
+## 🚀 Featured Data Projects
 
 <table>
 <tr>
@@ -46,8 +46,7 @@ Recently completed the Associate Data Engineer in SQL track and currently buildi
 
 ### Sales Insights Dashboard Using Power BI
 - An interactive Power BI dashboard for analyzing business sales data. It helps in understanding overall performance, identifying trends, and supporting data-driven decisions.
-</td>
-<td>
+
 
 ---
 
