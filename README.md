@@ -1,25 +1,24 @@
 # Hi, I'm Mohamed Ibrahim 👋
 
-🎓 Computer Science Student | Aspiring Data Engineer  
-💾 Strong SQL Skills (Joins, CTEs, Window Functions, Aggregations)  
-📊 Experience with Excel & Power BI  
-🐍 Currently developing Python for data processing  
-
+🚀 Data Engineering Trainee at Digital Egypt Pioneers Initiative (DEPI)
+🐍 Developing my skills in Python and Pandas for data processing
+💾 Strong SQL Skills (Joins, CTEs, Window Functions, Aggregations)
+🗄️ Working with SQL Server and Data Warehousing
 ---
 
 ## 🚀 About Me
 
-I am passionate about designing structured databases and transforming raw datasets into meaningful insights.  
-Recently completed the Associate Data Engineer in SQL track and currently building real-world SQL Server projects simulating business workflows.
+I am a Data Engineering Trainee at the Digital Egypt Pioneers Initiative (DEPI), passionate about building data solutions and working with data pipelines.
 
+I have strong SQL fundamentals and hands-on experience with SQL Server, Data Warehousing, ETL processes, and data transformation. I am currently developing my Python and Pandas skills to strengthen my data engineering capabilities.
+
+My goal is to build scalable and reliable data solutions and start my professional career as a Data Engineer.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -39,13 +38,6 @@ Recently completed the Associate Data Engineer in SQL track and currently buildi
 ### SQL Data Warehouse
 - Built a Data Warehouse consolidating data from CRM and ERP systems, performing ETL, data cleaning, and transformation to create analytics-ready datasets.
 
-</td>
-</tr>
-<tr>
-<td>
-
-### Sales Insights Dashboard Using Power BI
-- An interactive Power BI dashboard for analyzing business sales data. It helps in understanding overall performance, identifying trends, and supporting data-driven decisions.
 </td>
 </tr>
 </table>
