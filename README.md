@@ -1,9 +1,9 @@
-# Hi, I'm Mohamed Ibrahim 👋
+## Hi, I'm Mohamed Ibrahim 👋
 
-🚀## Data Engineering Trainee at Digital Egypt Pioneers Initiative (DEPI)
-🐍## Developing my skills in Python and Pandas for data processing
-💾## Strong SQL Skills (Joins, CTEs, Window Functions, Aggregations)
-🗄️## Working with SQL Server and Data Warehousing
+🚀 Data Engineering Trainee at Digital Egypt Pioneers Initiative (DEPI)
+🐍 Developing my skills in Python and Pandas for data processing
+💾 Strong SQL Skills (Joins, CTEs, Window Functions, Aggregations)
+🗄️ Working with SQL Server and Data Warehousing
 ---
 
 ## 🚀 About Me
