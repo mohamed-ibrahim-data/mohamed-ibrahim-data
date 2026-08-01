@@ -29,7 +29,7 @@ My goal is to build scalable and reliable data solutions and start my profession
 <tr>
 <td>
 
-### Advanced Data Analytics
+### Exploratory Data Analysis (EDA) 
 - Advanced SQL data analytics project showcasing trend analysis, cumulative analysis, performance metrics, segmentation, and reporting to generate business insights from structured datasets.
 
 </td>
